@@ -2,7 +2,12 @@ local scripts = {
 	[9754968779] = {
 		name = "+1 Health Per Click",
 		path = "scripts/PlusOneHealthPerClick.lua",
-		url = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/scripts/PlusOneHealthPerClick.lua",
+		url = "https://raw.githubusercontent.com/Henry-Buck/Baconhub/main/scripts/PlusOneHealthPerClick.lua",
+	},
+	[10000383119] = {
+		name = "Gun Evolution",
+		path = "scripts/GunEvolution.lua",
+		url = "https://raw.githubusercontent.com/Henry-Buck/Baconhub/main/scripts/GunEvolution.lua",
 	},
 }
 
